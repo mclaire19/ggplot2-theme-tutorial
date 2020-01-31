@@ -1,4 +1,4 @@
-# ggplot2-theme-tutorial
+# Tutorial: Learning to implement custom themes in ggplot2
 
 ## The final HTML version of this tutorial is available here: https://rpubs.com/mclaire19/ggplot2-custom-themes
 
